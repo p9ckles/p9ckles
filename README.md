@@ -1,5 +1,5 @@
 
-<h1 align="center">MrPickles (Zach)</h1>
+<h1 align="center">Mr Pickles (Zach)</h1>
 
 ---
 
