@@ -8,6 +8,7 @@ I'm interested in networks and low-level systems programming, especially:
 
 - Network management 
 - Windows internals
+- Reverse Engineering 
 - C/C++ 
 
 I like to understand and learn more about systems at their lowest useful level and I am currently learning more about Linux systems 
